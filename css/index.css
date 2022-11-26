@@ -1,0 +1,68 @@
+body{
+    background-image: url(../img/fundo.png)!important;
+}
+.titulo{
+    margin-top: 50px;
+    color: black;
+    text-align: center;
+    text-shadow: 2px 1px 5px #343a40;
+}
+.barra{
+    height: 30px;
+    background-color: #dc3545;
+}
+
+.conteudo{
+    background-color: white; 
+    font-family: Arial, Helvetica, sans-serif; 
+    padding: 50px; 
+    box-shadow: 1px 1px 5px black;
+}
+
+.menu{
+    background-color: black;
+}
+
+.navbar{
+    background-color: #343a40;
+    color: white;
+    height: 100px;
+}
+
+.p-login {
+    text-align: end;
+    color: white;
+    margin-right: 15px;
+}
+
+.col-sm:hover{
+    background-color: #dc3545;
+    font-size: 22px;
+    cursor:pointer;
+}
+
+.rodape{
+    text-align: center;
+}
+h2{
+    color: #dc3545;
+}
+.col-sm{
+    background-color: #343a40;
+    color: white;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    text-align: center;
+    border-radius: 15px;
+}
+#logo{
+    font-size: 25px;
+    text-shadow: 1px 1px 4px black;
+}
+#logo:hover{
+    background-color: black;
+    border-radius: 20px;
+}
